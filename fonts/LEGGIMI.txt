@@ -1,0 +1,13 @@
+FONT DEL SITO (gratuiti, licenza SIL Open Font License)
+
+Copia in questa cartella i seguenti file (basta il formato .woff2 OPPURE .ttf):
+
+  Sora-Variable.woff2           (oppure Sora-Variable.ttf)
+  JetBrainsMono-Variable.woff2  (oppure JetBrainsMono-Variable.ttf)
+
+Dove scaricarli:
+  Sora           -> https://github.com/google/fonts/tree/main/ofl/sora           (file "Sora[wght].ttf")
+  JetBrains Mono -> https://github.com/google/fonts/tree/main/ofl/jetbrainsmono  (file "JetBrainsMono[wght].ttf")
+
+Rinomina i file come indicato sopra. Se i file mancano, il sito usa
+automaticamente i font di sistema e resta perfettamente leggibile.
