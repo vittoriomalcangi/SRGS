@@ -151,6 +151,11 @@ section[id]{scroll-margin-top:var(--header-h)}
 .arbolens h2{color:var(--white)}
 .arbolens .detail-text,.arbolens .body-lg{color:var(--on-dark)}
 
+.product-logo{width:88px;height:88px;border-radius:14px;background:#F6FCFC;padding:4px;object-fit:contain}
+.product-title{display:flex;align-items:center;gap:18px;margin-top:12px}
+.product-title h2{margin-top:0}
+.product-title .product-logo{width:72px;height:72px}
+
 /* ===== Galleria ===== */
 .gallery-source{display:none}
 .g-stage{position:relative;aspect-ratio:16/10;border-radius:10px;overflow:hidden;background:#E6E8E1;cursor:zoom-in}
