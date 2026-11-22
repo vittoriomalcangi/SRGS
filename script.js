@@ -54,7 +54,7 @@
     img.src = src;
     return img;
   }
-  // Immagini singole (es. scheda TiltTree): <div class="js-img" data-src="..." data-alt="...">
+  // Immagini singole (es. scheda ArboLens): <div class="js-img" data-src="..." data-alt="...">
   document.querySelectorAll(".js-img").forEach(function (box) {
     box.parentNode.replaceChild(makeImage(box.getAttribute("data-src"), box.getAttribute("data-alt")), box);
   });
